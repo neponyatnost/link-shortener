@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "konukhov mern application",
+  "mongoUri": "mongodb+srv://admin:Kawaii1758Password@cluster0.iedbnmt.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
